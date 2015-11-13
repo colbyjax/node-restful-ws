@@ -1,0 +1,8 @@
+{
+  "name": "node-ws",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  }
+}
